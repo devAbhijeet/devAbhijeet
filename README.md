@@ -29,7 +29,7 @@ A frontend web developer from India 🇮🇳 &nbsp;working in Bengaluru striving
 
 <br>
 
-# Tech journey 🛤 🚂
+## Tech journey 🛤 🚂
 
 ### Front End
 <div align="left">
