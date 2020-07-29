@@ -28,82 +28,82 @@
 # Tech stack used
 
 ### Front End
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
 </code>
 <hr>
 
 ### Backend End
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg">
 </code>
 <hr>
 
 ### Database
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg">
 </code>
 <hr>
 
 ### Tools
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postman.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
 </code>
 <hr>
 
 ### OS
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg">
 </code>
 <hr>
 
 ### Goals for 2020
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
 </code>
-<code style="background-color:transparent;">
+<code>
 	<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/tensorflow.svg">
 </code>
 
