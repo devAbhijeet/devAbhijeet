@@ -24,7 +24,8 @@
 </div>
 
 <br>
-**Languages and Tools Used:**
+
+# Tech stack used
 
 ### Front End
 <code>
@@ -45,6 +46,7 @@
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
 </code>
+<hr>
 
 ### Backend End
 <code>
@@ -65,6 +67,7 @@
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg">
 </code>
+<hr>
 
 ### Database
 <code>
@@ -73,6 +76,7 @@
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg">
 </code>
+<hr>
 
 ### Tools
 <code>
@@ -84,6 +88,7 @@
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
 </code>
+<hr>
 
 ### OS
 <code>
@@ -92,7 +97,7 @@
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg">
 </code>
-
+<hr>
 
 ### Goals for 2020
 <code>
