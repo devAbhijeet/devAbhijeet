@@ -1,4 +1,4 @@
-### Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
+## Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
 
 <div align="left">
 	<p>
@@ -166,8 +166,8 @@
 ### Goals for 2020
 <div align="left">
 	<p>
-		<a align="left" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg" />
+		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg" />
 		</a>
 	</p>
 	<p>
