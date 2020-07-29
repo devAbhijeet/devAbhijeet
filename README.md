@@ -181,21 +181,6 @@ A frontend web developer from India 🇮🇳 &nbsp;working in Bengaluru striving
 	</p>
 </div>
 
-<hr>
-
-<br>
-
-## My Citadel of knoweledge 📕 📖 📗
-
-### Alogorithms
-[Tushar Roy] (https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-[Tech Dose] (https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g)
-[My Code School] (https://www.youtube.com/user/mycodeschool)
-
-### Tech
-[The New Bosotn] (https://www.youtube.com/user/thenewboston)
-[Code Course] (https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
-
 
 
 
