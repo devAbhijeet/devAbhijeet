@@ -69,7 +69,7 @@
 <div align="left">
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg" />
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg" />
 		</a>
 	</p>
 	<p>
@@ -107,7 +107,7 @@
 <div align="left">
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg" />
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg" />
 		</a>
 	</p>
 	<p>
@@ -125,7 +125,7 @@
 <div align="left">
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg" />
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg" />
 		</a>
 	</p>
 	<p>
@@ -149,7 +149,7 @@
 <div align="left">
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg" />
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg" />
 		</a>
 	</p>
 	<p>
@@ -166,7 +166,7 @@
 ### Goals for 2020
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
+		<a align="left" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
 		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg" />
 		</a>
 	</p>
