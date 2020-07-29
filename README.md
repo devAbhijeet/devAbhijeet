@@ -3,7 +3,7 @@
 <div align="left">
 	<p>
 		<a href="https://www.linkedin.com/in/dev-abhijeet-yadav/">
-		  <img align="left" alt="Abhijeet Yadav | LinkedIn" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/linkedin.svg" />
+		  <img align="left" height="35" width="100" alt="Abhijeet Yadav | LinkedIn" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/linkedin.svg" />
 		</a>
 	</p>
 	<p>
