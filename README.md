@@ -4,22 +4,22 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 
 <div align="left">
 	<p>
-		<a href="https://www.linkedin.com/in/dev-abhijeet-yadav/">
+		<a target="_blank" href="https://www.linkedin.com/in/dev-abhijeet-yadav/">
 		  <img align="left" height="35" width="100" alt="Abhijeet Yadav | LinkedIn" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/linkedin.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://codesandbox.io/u/devAbhijeet">
+		<a target="_blank" href="https://codesandbox.io/u/devAbhijeet">
 			<img align="left" alt="Abhijeet Yadav | CodeSandbox" width="35px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/codesandbox.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://codepen.io/dev_abhijeet">
+		<a target="_blank" href="https://codepen.io/dev_abhijeet">
 			<img align="left" alt="Abhijeet Yadav | codepen" width="35px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/codepen.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://twitter.com/dev_abhijeet">
+		<a target="_blank" href="https://twitter.com/dev_abhijeet">
 		  <img align="left" width="35" alt="Abhijeet Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/twitter.svg" />
 		</a>
 	</p>
@@ -34,33 +34,33 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### Front End
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg" />
 		</a>
 	</p>
 </div>
@@ -72,33 +72,33 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### Backend End
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/php.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/express.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg" />
 		</a>
 	</p>
 </div>
@@ -110,13 +110,13 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### Database
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg" />
 		</a>
 	</p>
 </div>
@@ -128,18 +128,18 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### Tools
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postman.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postman.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postman.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postman.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg" />
 		</a>
 	</p>
 </div>
@@ -152,13 +152,13 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### OS
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/macOS.svg" />
 		</a>
 	</p>
 </div>
@@ -170,13 +170,13 @@ A frontend web developer from 🇮🇳 working in Bengaluru.
 ### Goals for 2020
 <div align="left">
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
-		  <img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
+		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg" />
 		</a>
 	</p>
 	<p>
-		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/tensorflow.svg">
-			<img align="left" height="25" target="_blank" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/tensorflow.svg" />
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/tensorflow.svg">
+			<img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/tensorflow.svg" />
 		</a>
 	</p>
 </div>
