@@ -23,7 +23,8 @@
 	</p>
 </div>
 
-**Languages and Tools Used:**  
+<br>
+**Languages and Tools Used:**
 
 ### Front End
 <code>
@@ -65,7 +66,7 @@
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/graphql.svg">
 </code>
 
-###Database
+### Database
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/postgresql.svg">
 </code>
@@ -73,7 +74,7 @@
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/mongodb.svg">
 </code>
 
-###Tools
+### Tools
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/vs-code.svg">
 </code>
@@ -84,7 +85,7 @@
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/git.svg">
 </code>
 
-###OS
+### OS
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ubuntu.svg">
 </code>
@@ -93,7 +94,7 @@
 </code>
 
 
-###Goals for 2020
+### Goals for 2020
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
 </code>
