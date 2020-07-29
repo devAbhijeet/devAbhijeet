@@ -31,32 +31,32 @@
 <div align="left">
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/html-5.svg">
 		</a>
 	</p>
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
-			<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
+			<img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/css-3.svg">
 		</a>
 	</p>
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
-			<img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
+			<img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg">
 		</a>
 	</p>
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg">
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/jquery.svg">
 		</a>
 	</p>
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/angular.svg">
 		</a>
 	</p>
 	<p>
 		<a href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
-		  <img height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
+		  <img align="left" height="35" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/react.svg">
 		</a>
 	</p>
 </div>
