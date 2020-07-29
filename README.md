@@ -1,5 +1,7 @@
 ## Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
 
+A frontend web developer from 🇮🇳 working in Bengaluru.
+
 <div align="left">
 	<p>
 		<a href="https://www.linkedin.com/in/dev-abhijeet-yadav/">
