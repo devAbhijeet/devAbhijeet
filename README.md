@@ -56,7 +56,7 @@
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/laravel.svg">
 </code>
 <code>
-	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg">
+	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.png">
 </code>
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/nodejs.svg">
