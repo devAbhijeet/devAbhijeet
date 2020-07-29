@@ -1,0 +1,48 @@
+# Name of your workflow
+name: README Update
+# Triggers to run workflow
+on:
+  # workflow_dispatch allows to run your workflow manually
+  workflow_dispatch:
+  # Run workflow based on specific schedule
+  schedule:
+  # This workflow will run every day at 00:00 UTC.
+  # You can use https://crontab.guru/ if cron syntax is
+  # looking weird for you
+  - cron: "0 0 * * *"
+
+jobs:
+  # This workflow contains a single job called "perform"
+  perform:
+    # The type of runner that the job will run on
+    # ubuntu-latest is default
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # This line to work properly with repo
+    - uses: actions/checkout@v2
+    # This one to activate ruby magic
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.7'
+    # First we need to install Faraday gem. You can use ruby built-in NET::HTTP
+    # class, but I want to show you how to work with gems in github-actions
+    - name: Install gems
+      run: gem install faraday
+    # And now we run our script
+    - name: Run script
+      # Here we are setting our secret API Key
+      # Details: https://docs.github.com/en/actions/configuring-and-managing-workflows/using-variables-and-secrets-in-a-workflow
+      env:
+        DEV_TO_API_KEY: ${{ secrets.DEV_TO_API_KEY }}
+      run: ruby ./scripts/rb/update_readme.rb
+    # Our script updated README.md, but we need to commit all changes
+    - name: Commit and push if changed
+      run: |
+        git add .
+        git diff
+        git config --global user.email "github-action-bot@example.com"
+        git config --global user.name "GitHub Action Bot"
+        git commit -m "Updated README" -a || echo "No changes to commit"
+        git push
