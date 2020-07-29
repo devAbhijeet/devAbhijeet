@@ -1,6 +1,6 @@
 ## Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
 
-A frontend web developer from 🇮🇳 working in Bengaluru.
+A frontend web developer from 🇮🇳 &nbsp;working in Bengaluru.
 
 <div align="left">
 	<p>
