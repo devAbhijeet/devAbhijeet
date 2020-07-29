@@ -18,7 +18,7 @@
 	</p>
 	<p>
 		<a href="https://twitter.com/dev_abhijeet">
-		  <img align="left" alt="Abhijeet Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/twitter.svg" />
+		  <img align="left" width="35" alt="Abhijeet Yadav | Twitter" width="21px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/twitter.svg" />
 		</a>
 	</p>
 </div>
