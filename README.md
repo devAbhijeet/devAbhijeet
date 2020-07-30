@@ -97,7 +97,7 @@ A frontend web developer from India 🇮🇳 &nbsp;working in Bengaluru striving
 		</a>
 	</p>
 	<p>
-		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg">
+		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rails.svg">
 		  <img align="left" height="25" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/ruby.svg" />
 		</a>
 	</p>
