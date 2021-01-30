@@ -1,6 +1,6 @@
 ## Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
 
-Writing Coding since 2013.<br>
+Writing Code since 2013.<br>
 Currently exploring rust with JS.<br>
 A frontend web developer from India 🇮🇳 &nbsp;working for Walmart Tech India, Bengaluru.<br>
 After a long time rust has reignited my curiosity in the everlasting, lifelong journey of learning.
