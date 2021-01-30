@@ -1,6 +1,6 @@
 ## Hi there, I'm [Abhijeet!](https://dev.to/devabhijeet)
 
-A frontend web developer from India 🇮🇳 &nbsp;working for Walmart Tech India, Bengaluru.
+A frontend web developer from India 🇮🇳 &nbsp;working for Walmart Tech India, Bengaluru.<br>
 Currently exploring rust with JS.
 After a long time rust has reignited my curiosity in the everlasting, lifelong journey of learning.
 
