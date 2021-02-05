@@ -170,7 +170,7 @@ After a long time rust has reignited my curiosity in the everlasting, lifelong j
 
 <hr>
 
-### Goals for 2020
+### Goals for 2021
 <div align="left">
 	<p>
 		<a target="_blank" href="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/rust.svg">
