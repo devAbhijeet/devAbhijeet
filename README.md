@@ -16,7 +16,7 @@ A frontend web developer from India 🇮🇳 &nbsp;working for Walmart Tech Indi
 		</a>
 	</p>
 	<p>
-		<a target="_blank" href="https://codepen.io/dev_abhijeet">
+		<a target="_blank" href="https://codepen.io/devAbhijeet">
 			<img align="left" alt="Abhijeet Yadav | codepen" width="35px" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/codepen.svg" />
 		</a>
 	</p>
