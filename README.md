@@ -2,7 +2,7 @@
 
 Writing Code since 2013.<br>
 Currently exploring rust with JS.<br>
-A frontend web developer from India 🇮🇳 &nbsp;working for Walmart Tech India, Bengaluru.
+A frontend web developer from India 🇮🇳 &nbsp;working for Linkedin India, Remote.
 
 <div align="left">
 	<p>
